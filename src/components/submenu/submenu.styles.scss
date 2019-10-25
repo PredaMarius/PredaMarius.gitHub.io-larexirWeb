@@ -1,0 +1,38 @@
+.submenu{
+    height: 400px;
+    flex: 1 1 auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-items: center;
+
+    justify-content: center;
+    // border: 1px solid black;
+    margin: 20px; 
+   
+    
+
+    .title {   
+        font-weight: bold;
+        margin-bottom: 6px;
+        font-size: 22px;
+        color: #4a4a4a;
+      }
+    
+    .submenu-button{
+        width:70%;
+        padding: 25px;
+        display: flex;
+        margin:15px;
+        // position:absolute;
+    }  
+  
+    &:first-child {
+      margin-top: 7.5px;
+    }
+  
+    &:last-child {
+      margin-bottom: 7.5px;
+    }
+  }
+  

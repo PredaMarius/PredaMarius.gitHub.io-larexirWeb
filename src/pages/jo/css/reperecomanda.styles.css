@@ -1,0 +1,33 @@
+.antet{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+
+.identificareComanda{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+
+.itemAntet{
+    margin-right:25px;
+    font-size:1.2em;
+}
+
+.e-headercelldiv{
+    margin:-7px 0px -7px -7px !important;
+    padding: 0 0.1em 0 0.1em !important;
+}
+
+.e-headercell{
+    padding: 0px 10px 0px !important;
+}
+
+.e-headercelldiv{
+    text-align: center !important;
+}
+
+.e-rowcell{
+    text-align:center;
+}

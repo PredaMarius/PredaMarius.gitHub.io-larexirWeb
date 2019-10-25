@@ -1,0 +1,17 @@
+.sign-in{
+    width:100%; 
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    padding:25px;
+    .title{
+        margin:10px 0;
+    }
+}
+.form{
+    
+    height:200px;
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+}

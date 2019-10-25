@@ -1,0 +1,14 @@
+.alinieredreapta{
+  display: flex;
+  justify-content: flex-end;
+}
+
+.title{
+  display: flex;
+  justify-content: center;
+}
+
+.modal-buttons{
+  display: flex;
+  justify-content:space-around;
+}
