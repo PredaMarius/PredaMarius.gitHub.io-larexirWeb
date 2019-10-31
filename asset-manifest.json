@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/PredaMarius/larexirWeb/static/css/main.264d194a.chunk.css",
-    "main.js": "/PredaMarius/larexirWeb/static/js/main.506a61fe.chunk.js",
-    "main.js.map": "/PredaMarius/larexirWeb/static/js/main.506a61fe.chunk.js.map",
-    "runtime~main.js": "/PredaMarius/larexirWeb/static/js/runtime~main.b252b744.js",
-    "runtime~main.js.map": "/PredaMarius/larexirWeb/static/js/runtime~main.b252b744.js.map",
-    "static/css/2.266e55a5.chunk.css": "/PredaMarius/larexirWeb/static/css/2.266e55a5.chunk.css",
-    "static/js/2.79a19957.chunk.js": "/PredaMarius/larexirWeb/static/js/2.79a19957.chunk.js",
-    "static/js/2.79a19957.chunk.js.map": "/PredaMarius/larexirWeb/static/js/2.79a19957.chunk.js.map",
-    "index.html": "/PredaMarius/larexirWeb/index.html",
-    "precache-manifest.ad6109f183ac144be5102f7f8f53fcb1.js": "/PredaMarius/larexirWeb/precache-manifest.ad6109f183ac144be5102f7f8f53fcb1.js",
-    "service-worker.js": "/PredaMarius/larexirWeb/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/PredaMarius/larexirWeb/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.264d194a.chunk.css.map": "/PredaMarius/larexirWeb/static/css/main.264d194a.chunk.css.map",
-    "static/media/shopping-bag.c26ff6c4.svg": "/PredaMarius/larexirWeb/static/media/shopping-bag.c26ff6c4.svg"
+    "main.css": "/larexirWeb/static/css/main.264d194a.chunk.css",
+    "main.js": "/larexirWeb/static/js/main.8bfd2727.chunk.js",
+    "main.js.map": "/larexirWeb/static/js/main.8bfd2727.chunk.js.map",
+    "runtime~main.js": "/larexirWeb/static/js/runtime~main.2013e556.js",
+    "runtime~main.js.map": "/larexirWeb/static/js/runtime~main.2013e556.js.map",
+    "static/css/2.266e55a5.chunk.css": "/larexirWeb/static/css/2.266e55a5.chunk.css",
+    "static/js/2.79a19957.chunk.js": "/larexirWeb/static/js/2.79a19957.chunk.js",
+    "static/js/2.79a19957.chunk.js.map": "/larexirWeb/static/js/2.79a19957.chunk.js.map",
+    "index.html": "/larexirWeb/index.html",
+    "precache-manifest.ffc64d2e616d3b539f5be1a1061970e5.js": "/larexirWeb/precache-manifest.ffc64d2e616d3b539f5be1a1061970e5.js",
+    "service-worker.js": "/larexirWeb/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/larexirWeb/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.264d194a.chunk.css.map": "/larexirWeb/static/css/main.264d194a.chunk.css.map",
+    "static/media/shopping-bag.c26ff6c4.svg": "/larexirWeb/static/media/shopping-bag.c26ff6c4.svg"
   }
 }
