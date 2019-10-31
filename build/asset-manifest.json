@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/larexirWeb/static/css/main.264d194a.chunk.css",
-    "main.js": "/larexirWeb/static/js/main.8bfd2727.chunk.js",
-    "main.js.map": "/larexirWeb/static/js/main.8bfd2727.chunk.js.map",
-    "runtime~main.js": "/larexirWeb/static/js/runtime~main.2013e556.js",
-    "runtime~main.js.map": "/larexirWeb/static/js/runtime~main.2013e556.js.map",
-    "static/css/2.266e55a5.chunk.css": "/larexirWeb/static/css/2.266e55a5.chunk.css",
-    "static/js/2.79a19957.chunk.js": "/larexirWeb/static/js/2.79a19957.chunk.js",
-    "static/js/2.79a19957.chunk.js.map": "/larexirWeb/static/js/2.79a19957.chunk.js.map",
-    "index.html": "/larexirWeb/index.html",
-    "precache-manifest.ffc64d2e616d3b539f5be1a1061970e5.js": "/larexirWeb/precache-manifest.ffc64d2e616d3b539f5be1a1061970e5.js",
-    "service-worker.js": "/larexirWeb/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/larexirWeb/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.264d194a.chunk.css.map": "/larexirWeb/static/css/main.264d194a.chunk.css.map",
-    "static/media/shopping-bag.c26ff6c4.svg": "/larexirWeb/static/media/shopping-bag.c26ff6c4.svg"
+    "main.css": "/PredaMarius/PredaMarius.github.io/static/css/main.264d194a.chunk.css",
+    "main.js": "/PredaMarius/PredaMarius.github.io/static/js/main.c8e21f87.chunk.js",
+    "main.js.map": "/PredaMarius/PredaMarius.github.io/static/js/main.c8e21f87.chunk.js.map",
+    "runtime~main.js": "/PredaMarius/PredaMarius.github.io/static/js/runtime~main.41cc1f41.js",
+    "runtime~main.js.map": "/PredaMarius/PredaMarius.github.io/static/js/runtime~main.41cc1f41.js.map",
+    "static/css/2.266e55a5.chunk.css": "/PredaMarius/PredaMarius.github.io/static/css/2.266e55a5.chunk.css",
+    "static/js/2.79a19957.chunk.js": "/PredaMarius/PredaMarius.github.io/static/js/2.79a19957.chunk.js",
+    "static/js/2.79a19957.chunk.js.map": "/PredaMarius/PredaMarius.github.io/static/js/2.79a19957.chunk.js.map",
+    "index.html": "/PredaMarius/PredaMarius.github.io/index.html",
+    "precache-manifest.6b4b427cef9df697e0429bbb135f6bd4.js": "/PredaMarius/PredaMarius.github.io/precache-manifest.6b4b427cef9df697e0429bbb135f6bd4.js",
+    "service-worker.js": "/PredaMarius/PredaMarius.github.io/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/PredaMarius/PredaMarius.github.io/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.264d194a.chunk.css.map": "/PredaMarius/PredaMarius.github.io/static/css/main.264d194a.chunk.css.map",
+    "static/media/shopping-bag.c26ff6c4.svg": "/PredaMarius/PredaMarius.github.io/static/media/shopping-bag.c26ff6c4.svg"
   }
 }

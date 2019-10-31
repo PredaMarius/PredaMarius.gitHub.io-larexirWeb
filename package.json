@@ -2,7 +2,7 @@
   "name": "larexirweb",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://predamarius.gitHub.io/larexirWeb",
+  "homepage": " https://github.com/PredaMarius/PredaMarius.github.io",
   "dependencies": {
     "@material-ui/core": "^4.3.1",
     "@syncfusion/ej2-react-dropdowns": "^17.2.47",
