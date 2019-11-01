@@ -31,12 +31,19 @@ const Header = ({handleSignOut, currentUser}) => {
                 }
                 
 
-            {
+                {
                 currentUser!== null?
                 <Link className='option' to="/contfirma/1">Firma:{currentUser.idFirma.denumire}</Link>
                 :
                 null
                 }
+
+                    {
+                    currentUser !== null?
+                    <Link className='option' to='/contact'>CONTACT</Link>
+                    :
+                    null
+                    }
                 <CartContext.Provider value={{hidden, toggleHidden}} >
                 <div className='option'><CartIcon/></div>
                 </CartContext.Provider>

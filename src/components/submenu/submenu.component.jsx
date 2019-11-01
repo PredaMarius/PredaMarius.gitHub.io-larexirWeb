@@ -20,7 +20,7 @@ const SubMenu=({title, history, linkUrlNewOrder, linkUrlOrdersHistory,linkUrlOrd
                 variant="contained" 
                 color="primary"
                 onClick={()=>history.push(`${match.url}${linkUrlOrdersUnsent}`)}
-                className='submenu-button'
+                className='submenu-button' 
             >
                     COMENZI NETRIMISE
             </Button>

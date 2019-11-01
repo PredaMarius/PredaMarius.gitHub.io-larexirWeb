@@ -14,11 +14,11 @@ import App from './App';
 ReactDOM.render(
     <Provider store={store}>
         <ApolloProvider client={client}>
-            <BrowserRouter>
-                <PersistGate persistor={persistor}>
-                    <App/>
-                </PersistGate>   
-            </BrowserRouter>
+                <BrowserRouter>
+                    <PersistGate persistor={persistor}>
+                        <App/>
+                    </PersistGate>   
+                </BrowserRouter>
         </ApolloProvider>
     </Provider>
 , document.getElementById('root'));
