@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/larexirWeb/static/css/main.264d194a.chunk.css",
-    "main.js": "/larexirWeb/static/js/main.8bfd2727.chunk.js",
-    "main.js.map": "/larexirWeb/static/js/main.8bfd2727.chunk.js.map",
+    "main.css": "/larexirWeb/static/css/main.ac51d52b.chunk.css",
+    "main.js": "/larexirWeb/static/js/main.06e1a5ec.chunk.js",
+    "main.js.map": "/larexirWeb/static/js/main.06e1a5ec.chunk.js.map",
     "runtime~main.js": "/larexirWeb/static/js/runtime~main.2013e556.js",
     "runtime~main.js.map": "/larexirWeb/static/js/runtime~main.2013e556.js.map",
     "static/css/2.266e55a5.chunk.css": "/larexirWeb/static/css/2.266e55a5.chunk.css",
-    "static/js/2.79a19957.chunk.js": "/larexirWeb/static/js/2.79a19957.chunk.js",
-    "static/js/2.79a19957.chunk.js.map": "/larexirWeb/static/js/2.79a19957.chunk.js.map",
+    "static/js/2.12507d21.chunk.js": "/larexirWeb/static/js/2.12507d21.chunk.js",
+    "static/js/2.12507d21.chunk.js.map": "/larexirWeb/static/js/2.12507d21.chunk.js.map",
     "index.html": "/larexirWeb/index.html",
-    "precache-manifest.ffc64d2e616d3b539f5be1a1061970e5.js": "/larexirWeb/precache-manifest.ffc64d2e616d3b539f5be1a1061970e5.js",
+    "precache-manifest.029532fe5a4198ba434cc2815e215966.js": "/larexirWeb/precache-manifest.029532fe5a4198ba434cc2815e215966.js",
     "service-worker.js": "/larexirWeb/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/larexirWeb/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.264d194a.chunk.css.map": "/larexirWeb/static/css/main.264d194a.chunk.css.map",
+    "static/css/main.ac51d52b.chunk.css.map": "/larexirWeb/static/css/main.ac51d52b.chunk.css.map",
     "static/media/shopping-bag.c26ff6c4.svg": "/larexirWeb/static/media/shopping-bag.c26ff6c4.svg"
   }
 }

@@ -3,6 +3,7 @@ import './App.css';
 import {Switch, Route, Redirect} from 'react-router-dom';
 import {getUser, clearToken, getAdreseLivrare} from "./strapi/strapi.utils.js";
 import Header from './components/header/header.component';
+import Bar from './components/app-bar/app-bar.component';
 import SignIn from './components/sign-in/sign-in.component';
 import HomePage from './pages/homepage/homepage.component';
 import ContactPage from './pages/contactpage/contactpage.component'
@@ -35,7 +36,7 @@ handleSignOut=()=>{
  render(){
     return (
       <div> 
-            <Header handleSignOut={this.handleSignOut}/>
+            <Bar handleSignOut={this.handleSignOut}/>
             <Switch>
               <Route exact path='/' component={HomePage}/>
               <Route exact path='/contact' component={ContactPage}/>

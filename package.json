@@ -4,7 +4,8 @@
   "private": true,
   "homepage": "https://PredaMarius.github.io/larexirWeb",
   "dependencies": {
-    "@material-ui/core": "^4.3.1",
+    "@material-ui/core": "^4.5.2",
+    "@material-ui/icons": "^4.5.1",
     "@syncfusion/ej2-react-dropdowns": "^17.2.47",
     "@syncfusion/ej2-react-grids": "^17.2.46",
     "apollo-boost": "^0.4.4",
@@ -15,6 +16,7 @@
     "graphql": "^14.4.2",
     "js-cookie": "^2.2.1",
     "jwt-decode": "^2.2.0",
+    "material-ui": "^0.20.2",
     "node-sass": "^4.12.0",
     "postcss-loader": "^3.0.0",
     "react": "^16.8.6",
